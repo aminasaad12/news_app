@@ -1,16 +1,11 @@
 # news_app
 
-A new Flutter application.
+❤Found this project useful?
 
-## Getting Started
+if you Found this project useful,then please consider giving ia a ⭐ on Github and sharing it with your friend.
 
-This project is a starting point for a Flutter application.
+Demo ⬇
 
-A few resources to get you started if this is your first Flutter project:
+<img width="649" alt="Untitled" src="https://user-images.githubusercontent.com/76265991/182048267-1fc6e329-40d0-4917-b36a-00ac257e6f55.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="285" alt="Untitledd" src="https://user-images.githubusercontent.com/76265991/182048384-ebd19bcf-e6e9-4f5e-be57-13b853839800.png">
